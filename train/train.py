@@ -113,8 +113,9 @@ def main():
                 best_val, stale_evals = vl, 0
                 torch.save({'model': model.state_dict(), 'optimizer': opt.state_dict(),
                             'step': step, 'loss': loss.item(), 'val_loss': vl,
-                            'config': {'n_embd': n_embd, 'n_head': n_head,
-                                       'n_layer': n_layer, 'block_size': block_size,
+                            'config': {'n_embd': args.embd, 'n_head': args.heads,
+                                       'n_layer': args.layers, 'block_size': block_size,
+                                       'dropout': args.dropout,
                                        'vocab_size': vocab_size}}, args.best_out)
                 print(f'  new best val {vl:.4f} -> {args.best_out}', flush=True)
             else:
@@ -126,8 +127,9 @@ def main():
         if step % args.ckpt_interval == 0 or step == args.steps:
             torch.save({'model': model.state_dict(), 'optimizer': opt.state_dict(),
                         'step': step, 'loss': loss.item(),
-                        'config': {'n_embd': n_embd, 'n_head': n_head,
-                                   'n_layer': n_layer, 'block_size': block_size,
+                        'config': {'n_embd': args.embd, 'n_head': args.heads,
+                                   'n_layer': args.layers, 'block_size': block_size,
+                                   'dropout': args.dropout,
                                    'vocab_size': vocab_size}}, args.out)
 
     print('training done ->', args.out, flush=True)
