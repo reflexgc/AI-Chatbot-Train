@@ -66,6 +66,7 @@ def main():
     tok = BPETokenizer.load('tokenizer/tokenizer.json')
     model = GPTLanguageModel(**kw)
     model.load_state_dict(ckpt['model'])
+    model.to(device)
     model.eval()
     import inspect as _inspect
     _supports_stop = 'stop_ids' in _inspect.signature(model.generate).parameters
