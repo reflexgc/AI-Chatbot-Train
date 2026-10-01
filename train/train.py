@@ -58,6 +58,10 @@ def main():
     ap.add_argument('--out', default='model/ckpt.pt')
     ap.add_argument('--resume', default=None)
     ap.add_argument('--max-norm', type=float, default=1.0)
+    ap.add_argument('--best-out', default='model/ckpt_best.pt',
+                    help='where the best-by-val-loss checkpoint goes')
+    ap.add_argument('--patience', type=int, default=5,
+                    help='stop after this many evals without val improvement (0 = off)')
     args = ap.parse_args()
 
     tok_meta = json.load(open('tokenizer/tokenizer.json', encoding='utf-8'))
@@ -79,7 +83,10 @@ def main():
               f"loss {ckpt['loss']:.4f}", flush=True)
 
     os.makedirs(os.path.dirname(args.out) or '.', exist_ok=True)
+    best_dir = os.path.dirname(args.best_out) or '.'
+    os.makedirs(best_dir, exist_ok=True)
     model.train()
+    best_val, stale_evals = float('inf'), 0
     for step in range(start_step + 1, args.steps + 1):
         for pg in opt.param_groups:
             pg['lr'] = lr_schedule(step, args.warmup, args.steps, args.lr)
@@ -94,6 +101,20 @@ def main():
             vl = evaluate(model, val_data, args.batch)
             print(f'step {step}: train {loss.item():.4f} val {vl:.4f} '
                   f'lr {opt.param_groups[0]["lr"]:.2e}', flush=True)
+            if vl < best_val:
+                best_val, stale_evals = vl, 0
+                torch.save({'model': model.state_dict(), 'optimizer': opt.state_dict(),
+                            'step': step, 'loss': loss.item(), 'val_loss': vl,
+                            'config': {'n_embd': n_embd, 'n_head': n_head,
+                                       'n_layer': n_layer, 'block_size': block_size,
+                                       'vocab_size': vocab_size}}, args.best_out)
+                print(f'  new best val {vl:.4f} -> {args.best_out}', flush=True)
+            else:
+                stale_evals += 1
+                if args.patience and stale_evals >= args.patience:
+                    print(f'early stop: no val improvement for {stale_evals} evals '
+                          f'(best val {best_val:.4f})', flush=True)
+                    break
         if step % args.ckpt_interval == 0 or step == args.steps:
             torch.save({'model': model.state_dict(), 'optimizer': opt.state_dict(),
                         'step': step, 'loss': loss.item(),
