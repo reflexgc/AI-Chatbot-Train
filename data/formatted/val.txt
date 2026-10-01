@@ -1,0 +1,94 @@
+### Instruction: Bike helmet rules for kids?
+### Response: Helmet every ride, level and snug with two-finger strap, replaced after any crash. Adult modeling decides compliance most. This is educational information only, not medical advice.
+### Instruction: Scalp ringworm in my child. Cream enough?
+### Response: No: scalp ringworm needs oral prescription medicine because creams can't reach hair follicles. Don't share combs, and complete the full course even as it improves. This is educational information only, not medical advice.
+### Instruction: My child vomits up the ORS. Then what?
+### Response: Pause briefly, then retry teaspoon-sized sips every few minutes. Persistent inability to keep fluids down needs medical care, possibly IV fluids. This is educational information only, not medical advice.
+### Instruction: What is heat rash vs viral rash?
+### Response: Heat rash sits in folds during heat with mild itch, clearing with cooling; viral rashes spread with fever and illness behavior. Fever with concerning rash needs evaluation. This is educational information only, not medical advice.
+### Instruction: Back to sleep but baby hates it. What now?
+### Response: Back-sleeping stands: SIDS risk outweighs preference. Upright cuddles, swaddle comfort, white noise, and daytime tummy time ease the transition. Never use stomach sleeping or soft bedding to fix fussiness. This is educational information only, not medical advice.
+### Instruction: What is burn first-aid summary?
+### Response: Cool running water 10-20 minutes, loose cover, no ice butter or toothpaste, urgent care by severity. Large, face, hand, joint, white, or breathing-injury burns escalate. This is educational information only, not medical advice.
+### Instruction: My child drank cleaning liquid. What now?
+### Response: Call poison guidance immediately with product, amount, time, and weight. Never induce vomiting for caustics. Bring packaging to any visit. This is educational information only; call poison control now.
+### Instruction: My toddler seized during a fever. What do I do?
+### Response: Note the time, cushion the head, turn onto the side, never put anything in the mouth. Most brief febrile seizures stop alone. First seizure, seizure over 5 minutes, repeated seizures, or slow recovery all need urgent care. This is educational information only; call emergency for seizures over 5 minutes.
+### Instruction: What is flu incubation in children?
+### Response: Typically 1 to 4 days from exposure to abrupt high fever and aches. Yearly vaccination and hand hygiene limit spread. Severe signs need evaluation. This is educational information only, not medical advice.
+### Instruction: Pool safety layers for toddlers?
+### Response: Fencing with self-latching gates, alarms, locked covers, swim skills, and touch supervision combine; no single layer suffices. Seconds matter most. This is educational information only, not medical advice.
+### Instruction: What should I do at home for my child's cold?
+### Response: Offer plenty of fluids, keep the nose clear with saline drops, use a cool-mist humidifier, and let the child rest. Honey at bedtime helps cough only in children over 1 year. This is educational information only, not medical advice.
+### Instruction: What is ear infection peak age?
+### Response: Six months to 2 years as short horizontal tubes trap fluid after colds. Most resolve with observation; recurrent cases need hearing checks and prevention review. This is educational information only, not medical advice.
+### Instruction: My child swallowed something unknown at the park. What now?
+### Response: Call poison guidance immediately with the suspected substance, amount, time, and the child's weight. Never induce vomiting unless instructed. Bring packaging to any visit. This is educational information only; call poison control now.
+### Instruction: What is a fever?
+### Response: Fever is the body's raised-temperature defense against infection, not an illness itself. Comfort and fluids matter more than the number, except thresholds like neonatal fever that always need urgent care. This is educational information only, not medical advice.
+### Instruction: What dose of cetirizine for a 5-year-old?
+### Response: I do not provide drug doses: confirm with a pharmacist using age labeling and weight. What I can explain: cetirizine covers allergy symptoms with drowsiness possible in some children, and persistent cases need pediatric review. This is educational information only, not medical advice.
+### Instruction: Lice medicine failed twice. Now what?
+### Response: Resistance or reinfestation from contacts is likely. All household heads need checking and simultaneous treatment, plus pediatric guidance on prescription alternatives. This is educational information only, not medical advice.
+### Instruction: My teen is always hungry. Normal?
+### Response: Growth-spurt appetite is normal and enormous. Balanced availability beats restriction; watch for binge-purge patterns, not portions. Persistent concerns get nutritional guidance. This is educational information only, not medical advice.
+### Instruction: What is head injury watch summary?
+### Response: 24-hour observation with one overnight waking, watching vomiting, sleepiness, pupils, behavior, and bleeding. Red flags go to emergency immediately. Falls from height get evaluated regardless. This is educational information only, not medical advice.
+### Instruction: Fever with stiff neck in my 6-year-old. Meaning?
+### Response: Fever with neck stiffness, severe headache, light sensitivity, or lethargy can signal meningitis needing emergency care immediately. Do not wait for rash. Go now. This is educational information only; seek emergency care.
+### Instruction: Chickenpox vs impetigo?
+### Response: Chickenpox blisters scatter everywhere with itch and fever; impetigo crusts cluster honey-colored around nose and mouth. Impetigo needs prescription treatment; chickenpox needs isolation and itch care. This is educational information only, not medical advice.
+### Instruction: Heatstroke signs in children?
+### Response: Confusion, fainting, hot dry skin, vomiting, or collapse in heat need emergency cooling and care immediately. Move to shade, cool aggressively, call emergency. Prevention is hydration plus breaks. This is educational information only; call emergency for these signs.
+### Instruction: Steroid creams for my child's eczema: safe?
+### Response: Mild steroids in short courses per pediatric guidance are safe and standard; prolonged unsupervised use thins skin. Thin areas like face and folds need extra caution and medical direction. This is educational information only, not medical advice.
+### Instruction: What is levocetirizine for?
+### Response: Allergy and chronic hives per age labeling with drowsiness possible in some children. Chronic hives need pediatric evaluation. Confirm age limits. This is educational information only, not medical advice.
+### Instruction: What should I do at home for ear pain before seeing the doctor?
+### Response: Keep the child comfortable and upright, offer fluids, and avoid inserting anything into the ear. Never start antibiotic drops or syrups on your own. See a pediatrician for diagnosis and treatment. This is educational information only, not medical advice.
+### Instruction: What is an allergy?
+### Response: Immune overreaction to harmless substances like pollen or foods, causing sneezing, hives, or swelling. Avoidance plus antihistamines manage mild cases; breathing difficulty means emergency. This is educational information only, not medical advice.
+### Instruction: What is calamine lotion for?
+### Response: Soothes itching from rashes and chickenpox externally. Not for open or infected sores. Widespread infected rash needs evaluation. This is educational information only, not medical advice.
+### Instruction: Small dimpled bumps clustered in my child's armpit. Molluscum?
+### Response: Small dome bumps with dimpled centers fit molluscum contagiosum: benign, self-limited over months, spread by scratching. Avoid picking; care covers infected, eye-area, or widely spreading lesions in eczema. This is educational information only, not medical advice.
+### Instruction: My child scratches their head constantly. Lice?
+### Response: Intense scalp itch with visible nits near ears and neck fits head lice. Medicated shampoo per package directions plus wet-combing, bedding wash, and school policy check. Repeat treatment per guidance since nits survive round one. This is educational information only, not medical advice.
+### Instruction: Fever after vaccination in my infant. Expected?
+### Response: Mild fever within a day or two of routine vaccines is common and settles quickly. High persistent fever, inconsolable crying for hours, or swelling that grows needs pediatric review. This is educational information only, not medical advice.
+### Instruction: My baby keeps getting ear infections. Why?
+### Response: Short horizontal eustachian tubes in infants trap fluid after colds, and daycare exposure adds infections. Recurrent cases need pediatric review for hearing checks and prevention planning. This is educational information only, not medical advice.
+### Instruction: Ear infection vs teething: how to tell?
+### Response: Teething causes drooling and gum rubbing without true fever; ear infection brings fever, ear tugging with pain, and often follows a cold. When unsure, a pediatrician's ear exam settles it in seconds. This is educational information only, not medical advice.
+### Instruction: What dose of amoxicillin should my 4-year-old take?
+### Response: I do not provide drug doses: pediatric dosing is weight-based, so any memorized number could be wrong for your child. Ask your pediatrician or pharmacist. What I can explain from the official label: amoxicillin is a penicillin antibiotic used for some bacterial infections, never for viral colds, with allergy and diarrhea as known risks. This is educational information only, not medical advice.
+### Instruction: What is dehydration?
+### Response: Dangerous body-fluid loss from vomiting, diarrhea, or poor intake, shown by thirst, dry mouth, few wet diapers, sunken eyes, and sleepiness. ORS replaces fluids early; severe signs need emergency care. This is educational information only, not medical advice.
+### Instruction: My 6-month-old has a fever of 39C but plays happily. Should I worry?
+### Response: A playful alert infant with fever is reassuring, and comfort measures with fluids apply. Still watch for breathing difficulty, rash, persistent vomiting, or fever beyond 3 days, which need evaluation. This is educational information only, not medical advice.
+### Instruction: What is xylometazoline spray age limit?
+### Response: Pediatric formulations carry age limits with 3-day maximums due to rebound congestion. Never for infants. Saline suits all ages instead. Confirm limits on the package. This is educational information only, not medical advice.
+### Instruction: What is rash glass-test summary?
+### Response: Clear-glass pressure distinguishes fading spots from non-fading purple ones needing emergency care with fever. Lethargy overrides testing toward immediate help. This is educational information only; call emergency for non-fading rash with fever.
+### Instruction: My child is very pale suddenly with tiredness. Anemia?
+### Response: Sudden pallor with fatigue fits anemia among other causes and needs blood testing, since treatment differs by cause. Rapid heartbeat, breathlessness, or blood loss signs escalate priority. Never start iron without testing. This is educational information only, not medical advice.
+### Instruction: Chickenpox itch relief that actually works?
+### Response: Cool baths, calamine lotion, loose cotton clothing, and trimmed nails prevent scratching damage. Never use aspirin in children. Ask a pharmacist about age-appropriate itch options. This is educational information only, not medical advice.
+### Instruction: Post-surgery fever in my child. Expected?
+### Response: Low fever in 48 hours is common inflammatory response; high persistent fever, wound redness, discharge, or worsening pain need surgical review. Follow discharge sheets exactly. This is educational information only, not medical advice.
+### Instruction: What are danger signs of pneumonia in children?
+### Response: Chest indrawing, grunting, blue lips, inability to drink, convulsions, or severe malnutrition alongside cough and fever. Any one means urgent or emergency care, not a routine appointment. This is educational information only; seek urgent care for these signs.
+### Instruction: Yellow scaly scalp in my newborn. Cradle cap?
+### Response: Yellowish scaly scalp patches in young infants fit cradle cap: harmless, painless, usually fading alone. Gentle washing with soft brushing suffices. Spreading raw oozing patches or failure to thrive need evaluation. This is educational information only, not medical advice.
+### Instruction: How to prevent swimmer's ear?
+### Response: Dry ears after swimming, avoid cotton buds that scratch the canal, and consider preventive drops per pharmacist guidance for recurrent cases. Earplugs help selected children. This is educational information only, not medical advice.
+### Instruction: My child's lips look blue during a coughing fit. Emergency?
+### Response: Brief blueness that resolves as coughing eases is common in fits, but persistent blue lips, breathing difficulty between fits, or extreme drowsiness need emergency care. Record what you see for the visit. This is educational information only; seek urgent care for persistent signs.
+### Instruction: Stitches care for my child's cut?
+### Response: Keep clean and dry per instructions, watch spreading redness, swelling, pus, or fever. Removal timing per clinician. Betadine routines only if directed. This is educational information only, not medical advice.
+### Instruction: When should I worry about my child's ear pain?
+### Response: Worry with ear discharge, severe pain, high persistent fever, swelling behind the ear, dizziness, or symptoms lasting beyond 2 to 3 days. These need prompt pediatric evaluation. This is educational information only, not medical advice.
+### Instruction: Shingles in children: possible?
+### Response: Rare but possible, usually a single painful blister strip in children with weak immunity or past chickenpox. Any band-like blister rash needs pediatric evaluation. This is educational information only, not medical advice.
+### Instruction: Flu vs stomach bug?
+### Response: Flu is respiratory with high fever and aches; stomach bugs are vomiting and diarrhea with less fever. Both dehydrate, so fluids matter in both. Severe signs in either need evaluation. This is educational information only, not medical advice.

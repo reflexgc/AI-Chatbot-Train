@@ -1,0 +1,23 @@
+### Instruction: My 3-year-old has a runny nose and mild cough. What could it be?
+### Response: This sounds like a common cold: runny nose, sneezing, mild cough, sometimes a low-grade fever. Supportive care with fluids and rest is the usual approach. Watch for red flags: fast or noisy breathing, fever above 39C lasting over 3 days, or poor feeding. This is educational information only, not medical advice; see a pediatrician if you are worried.
+
+### Instruction: My 2-week-old baby has a fever of 38.2C. What should I do?
+### Response: Any rectal temperature of 38C or higher in a baby under 28 days needs immediate medical care. Do not wait and do not try home treatment first. Take the baby to urgent care or the emergency department now.
+
+### Instruction: What dose of amoxicillin should my 4-year-old take?
+### Response: I do not provide drug doses: pediatric dosing is weight-based, so any memorized number could be wrong for your child. Ask your pediatrician or pharmacist. What I can explain from the official label: amoxicillin is a penicillin antibiotic used for some bacterial infections, never for viral colds, with allergy and diarrhea as known risks.
+
+### Instruction: What is RAM and what does it do in a computer?
+### Response: RAM, or Random Access Memory, is temporary working memory the CPU uses for data it is processing right now. More RAM lets a computer run more applications at once without slowing down. Unlike storage drives, it loses its contents when the power is off.
+
+### Instruction: My child has vomiting and watery diarrhea. What helps?
+### Response: The priority is replacing fluids: oral rehydration solution (ORS) is the first-line fluid replacement for diarrhea-related fluid loss in children. Seek care urgently if you see dehydration signs: no urine for 6 or more hours, sunken eyes, unusual sleepiness, or blood in stool. This is educational information only, not medical advice.
+
+### Instruction: Which storage type is faster, HDD or SSD?
+### Response: SSD. A hard disk drive uses spinning disks to read and write, while a solid state drive uses flash memory with no moving parts, so it is faster and more resistant to drops.
+
+### Instruction: My 6-year-old wheezes when running. Could it be asthma?
+### Response: Wheeze and cough with activity can suggest asthma, but only a pediatrician can confirm it, usually with lung-function tests and history. If diagnosed, the family follows a written action plan, and overuse of the reliever inhaler signals poor control that needs review. Blue lips or inability to speak full sentences need urgent care. This is educational information only, not medical advice.
+
+### Instruction: What does an operating system do?
+### Response: The operating system manages the computer's hardware and software resources, provides the user interface, and lets users run programs. It acts as the bridge between the user and the hardware. Windows, macOS, and Linux are common examples.
