@@ -16,7 +16,8 @@ block_size = 256      # max context length the model can look back
 n_embd = 256          # width of every vector inside the model
 n_head = 4            # attention heads per block (head size = n_embd // n_head)
 n_layer = 4           # stacked transformer blocks
-dropout = 0.1         # regularization: randomly zeroes activations while training
+dropout = 0.2          # regularization: randomly zeroes activations while training
+# (raised 0.1 -> 0.2: our corpus is small, so we regularize harder to slow memorization)
 vocab_size = 8192     # MUST match tokenizer.json (overwritten by train.py at runtime)
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
 # --------------------------------------------------------------------
@@ -127,8 +128,10 @@ class GPTLanguageModel(nn.Module):
         return logits, loss
 
     @torch.no_grad()
-    def generate(self, idx, max_new_tokens, temperature=1.0, top_k=None):
-        """Greedy-ish sampling loop used for smoke tests and chat (Role 9 extends it)."""
+    def generate(self, idx, max_new_tokens, temperature=1.0, top_k=None, stop_ids=None):
+        """Greedy-ish sampling loop. stop_ids (list of token IDs, e.g. encoding of
+        '### Instruction:') halts generation the moment the tail matches it,
+        so one answer can't roll into the next question. Role 9 extends this."""
         for _ in range(max_new_tokens):
             idx_cond = idx[:, -self.block_size:]
             logits, _ = self(idx_cond)
@@ -138,6 +141,10 @@ class GPTLanguageModel(nn.Module):
                 logits[logits < v[:, [-1]]] = float('-inf')
             probs = F.softmax(logits, dim=-1)
             idx = torch.cat((idx, torch.multinomial(probs, num_samples=1)), dim=1)
+            if stop_ids is not None and idx.shape[1] >= len(stop_ids):
+                if idx[0, -len(stop_ids):].tolist() == list(stop_ids):
+                    idx = idx[:, :-len(stop_ids)]  # strip the stop marker itself
+                    break
         return idx
 
     def num_params(self):
