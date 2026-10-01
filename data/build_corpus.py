@@ -23,6 +23,12 @@ BOILERPLATE = [
     'This is educational information only.',
 ]
 
+# Truthful origin label per row. Rows carry their own "source" key when the
+# text was converted from a named dataset (MEDACQA, WHO files); everything
+# authored directly defaults to the guide itself. NEVER label authored text
+# with an authority that didn't write it.
+DEFAULT_SOURCE = 'PediGuide pediatric guide'
+
 
 def strip_boilerplate(text):
     out = text
@@ -37,19 +43,39 @@ def strip_boilerplate(text):
 
 def block(r):
     return ('### Instruction: ' + r['instruction'].strip() + '\n'
-            + '### Response: ' + strip_boilerplate(r['output']).strip())
+            + '### Response: ' + strip_boilerplate(r['output']).strip() + '\n'
+            + '### Source: ' + r.get('source', DEFAULT_SOURCE).strip())
 
 
 def main():
     rows = []
-    for f in sorted(glob.glob(os.path.join(HERE, 'formatted', 'qa_part*.jsonl'))):
+    for f in sorted(glob.glob(os.path.join(HERE, 'formatted', 'qa_*.jsonl'))):
         for line in open(f, encoding='utf-8'):
             line = line.strip()
             if line:
                 rows.append(json.loads(line))
     assert rows, 'no Q&A parts found'
-    assert all(set(r) == {'instruction', 'output'} and r['instruction'].strip()
-               and r['output'].strip() for r in rows), 'malformed row detected'
+    assert all(set(r) - {'source'} == {'instruction', 'output'}
+               and r['instruction'].strip() and r['output'].strip()
+               for r in rows), 'malformed row detected'
+
+    # Normalize numbering artifacts some files prepend ("[12] Question...").
+    # They are not content: left in, the model would learn to number answers.
+    for r in rows:
+        r['instruction'] = re.sub(r'^\[\d+\]\s*', '', r['instruction'].strip()).strip()
+
+    # Dedupe exact-duplicate instructions BEFORE splitting (some source files
+    # repeat rows verbatim). Keeps first occurrence; a duplicate leaking
+    # across the split would poison the exam.
+    seen, unique = set(), []
+    for r in rows:
+        k = r['instruction'].strip().lower()
+        if k not in seen:
+            seen.add(k)
+            unique.append(r)
+    print(f'loaded={len(rows)} unique={len(unique)} '
+          f'duplicates-dropped={len(rows) - len(unique)}')
+    rows = unique
 
     random.seed(42)
     random.shuffle(rows)

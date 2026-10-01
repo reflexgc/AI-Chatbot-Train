@@ -48,12 +48,12 @@ def main():
     # 1. Self-retrieval sanity on a random 200-train sample.
     random.seed(0)
     sample = random.sample(train, min(200, len(train)))
-    self_hit = sum(1 for q, _ in sample if r.query(q, 1)[0][0] > 0.99)
+    self_hit = sum(1 for q, _, _ in sample if r.query(q, 1)[0][0] > 0.99)
     print(f'self-retrieval: {self_hit}/{len(sample)} (expect ~all)')
 
     # 2. Val score distribution (raw score AND content-gated coverage).
     vscores = []
-    for qi, (q, _) in enumerate(val):
+    for qi, (q, _, _) in enumerate(val):
         s, _, _, idx = r.query(q, 1)[0]
         vscores.append((s, len(r.content_overlap(q, idx))))
     vscores.sort(reverse=True)
