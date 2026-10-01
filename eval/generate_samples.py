@@ -51,6 +51,7 @@ def main():
     ap.add_argument('--embd', type=int, default=None)
     ap.add_argument('--heads', type=int, default=None)
     ap.add_argument('--layers', type=int, default=None)
+    ap.add_argument('--rep-penalty', type=float, default=1.2)
     args = ap.parse_args()
 
     device = 'cuda' if torch.cuda.is_available() else 'cpu'
@@ -80,11 +81,12 @@ def main():
             prompt = f'### Instruction: {p}\n### Response:'
             ids = torch.tensor([tok.encode(prompt)]).to(device)
             with torch.no_grad():
-                gen_kw = dict(temperature=args.temp, top_k=args.top_k)
+                gen_kw = dict(temperature=args.temp, top_k=args.top_k,
+                              repetition_penalty=args.rep_penalty)
                 if stop is not None:
                     gen_kw['stop_ids'] = stop
                 out = model.generate(ids, args.max_tokens, **gen_kw)
-            body = tok.decode(out[0].tolist())[len(prompt):].split('### Instruction:')[0]
+            body = tok.decode(out[0].tolist())[len(prompt):].split('\n### ')[0]
             f.write(f'\nQ: {p}\nA:{body.strip()}\n{"-" * 60}\n')
     print('wrote', args.out, flush=True)
 

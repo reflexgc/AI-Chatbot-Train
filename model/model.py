@@ -132,14 +132,25 @@ class GPTLanguageModel(nn.Module):
         return logits, loss
 
     @torch.no_grad()
-    def generate(self, idx, max_new_tokens, temperature=1.0, top_k=None, stop_ids=None):
+    def generate(self, idx, max_new_tokens, temperature=1.0, top_k=None,
+                 stop_ids=None, repetition_penalty=1.0):
         """Greedy-ish sampling loop. stop_ids (list of token IDs, e.g. encoding of
         '### Instruction:') halts generation the moment the tail matches it,
-        so one answer can't roll into the next question. Role 9 extends this."""
+        so one answer can't roll into the next question. repetition_penalty > 1.0
+        discourages reused tokens (CTRL-style), killing degenerate repeat loops.
+        Role 9 extends this."""
         for _ in range(max_new_tokens):
             idx_cond = idx[:, -self.block_size:]
             logits, _ = self(idx_cond)
             logits = logits[:, -1, :] / temperature
+            if repetition_penalty != 1.0:
+                for b in range(idx.shape[0]):
+                    for tok_id in torch.unique(idx[b]):
+                        i = int(tok_id)
+                        if logits[b, i] > 0:
+                            logits[b, i] /= repetition_penalty
+                        else:
+                            logits[b, i] *= repetition_penalty
             if top_k is not None:
                 v, _ = torch.topk(logits, min(top_k, logits.size(-1)))
                 logits[logits < v[:, [-1]]] = float('-inf')
