@@ -28,7 +28,7 @@ torch.manual_seed(1337)
 class Head(nn.Module):
     """One attention head: every position gathers a weighted mix of past positions."""
 
-    def __init__(self, head_size):
+    def __init__(self, head_size, n_embd=n_embd, block_size=block_size, dropout=dropout):
         super().__init__()
         self.key = nn.Linear(n_embd, head_size, bias=False)
         self.query = nn.Linear(n_embd, head_size, bias=False)
@@ -51,9 +51,11 @@ class Head(nn.Module):
 class MultiHeadAttention(nn.Module):
     """n_head heads in parallel, concatenated back to n_embd."""
 
-    def __init__(self, num_heads, head_size):
+    def __init__(self, num_heads, head_size, n_embd=n_embd, block_size=block_size,
+                 dropout=dropout):
         super().__init__()
-        self.heads = nn.ModuleList([Head(head_size) for _ in range(num_heads)])
+        self.heads = nn.ModuleList(
+            [Head(head_size, n_embd, block_size, dropout) for _ in range(num_heads)])
         self.proj = nn.Linear(head_size * num_heads, n_embd)
         self.dropout = nn.Dropout(dropout)
 
@@ -65,7 +67,7 @@ class MultiHeadAttention(nn.Module):
 class FeedForward(nn.Module):
     """Per-position memory: expands 4x, non-linearity, projects back."""
 
-    def __init__(self, n_embd):
+    def __init__(self, n_embd, dropout=dropout):
         super().__init__()
         self.net = nn.Sequential(
             nn.Linear(n_embd, 4 * n_embd),
@@ -82,11 +84,11 @@ class Block(nn.Module):
     """One transformer block: communicate (attention) then compute (feed-forward).
     Pre-norm + residual: each sub-layer refines x instead of replacing it."""
 
-    def __init__(self, n_embd, n_head):
+    def __init__(self, n_embd, n_head, block_size=block_size, dropout=dropout):
         super().__init__()
         head_size = n_embd // n_head
-        self.sa = MultiHeadAttention(n_head, head_size)
-        self.ffwd = FeedForward(n_embd)
+        self.sa = MultiHeadAttention(n_head, head_size, n_embd, block_size, dropout)
+        self.ffwd = FeedForward(n_embd, dropout)
         self.ln1 = nn.LayerNorm(n_embd)
         self.ln2 = nn.LayerNorm(n_embd)
 
@@ -97,12 +99,14 @@ class Block(nn.Module):
 
 
 class GPTLanguageModel(nn.Module):
-    def __init__(self, vocab_size=vocab_size):
+    def __init__(self, vocab_size=vocab_size, n_embd=n_embd, n_head=n_head,
+                 n_layer=n_layer, block_size=block_size, dropout=dropout):
         super().__init__()
         self.block_size = block_size
         self.token_embedding_table = nn.Embedding(vocab_size, n_embd)
         self.position_embedding_table = nn.Embedding(block_size, n_embd)
-        self.blocks = nn.Sequential(*[Block(n_embd, n_head=n_head) for _ in range(n_layer)])
+        self.blocks = nn.Sequential(
+            *[Block(n_embd, n_head, block_size, dropout) for _ in range(n_layer)])
         self.ln_f = nn.LayerNorm(n_embd)
         self.lm_head = nn.Linear(n_embd, vocab_size)
         self.apply(self._init_weights)

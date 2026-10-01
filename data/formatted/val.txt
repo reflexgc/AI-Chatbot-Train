@@ -1,398 +1,431 @@
-### Instruction: School during cancer treatment. How?
-### Response: Homebound instruction, phased returns, infection precautions, and counselor coordination sustain education through treatment. Peers get guided explanations. Flexibility rules everything. Schools accommodate legally.
-
-### Instruction: Acne severely affecting my teen's confidence. Options?
-### Response: Beyond basics, prescription retinoids, benzoyl peroxide combinations, and hormonal options per dermatology guidance transform outcomes. Early treatment prevents scarring inside and out. Professional care beats years of suffering.
-
-### Instruction: My 10-year-old gets headaches every afternoon. Cause?
-### Response: Dehydration, missed meals, screen strain, poor sleep, and stress explain most afternoon headaches; diary across two weeks reveals the pattern. Sudden worst, vomiting, vision changes, or head-injury context need urgent evaluation. Fix basics first.
-
-### Instruction: Insect bites swollen hugely in toddler. Allergy?
-### Response: Large local reactions are common immune exuberance, not allergy, resolving in days with cold care. Breathing difficulty or throat swelling instead means emergency. Track patterns.
-
-### Instruction: Greenstick fracture meaning?
-### Response: Bent-but-not-broken pediatric bone needing protection while remodeling straight with growth. Splinting with activity limits suffices mostly. Orthopedic monitoring confirms alignment. Young bones remodel remarkably.
-
-### Instruction: Deworming medicine dose for my 6-year-old?
-### Response: I do not provide drug doses: confirm with a pharmacist using weight and the specific product. What I can explain: single-dose schedules with household hygiene break pinworm cycles, and belly pain or nausea are known effects.
-
-### Instruction: Speech delay with ear fluid. Connected?
-### Response: Chronic fluid dampens hearing during critical language windows, plausibly delaying speech. Hearing tests plus ENT review for persistent fluid with delays is the pathway. Early action protects language.
-
-### Instruction: What is separation anxiety peak?
-### Response: Around 8-18 months with strangers and goodbyes, fading with routine and development. Brief warm rituals beat lingering. Persistent school-age refusal needs support.
-
-### Instruction: Backpack weight limits for kids?
-### Response: Around 10-15% of body weight with both straps, packed heaviest closest to the back. Heavier loads strain growing spines unnecessarily. Locker use and digital books lighten most.
-
-### Instruction: My teen is always hungry. Normal?
-### Response: Growth-spurt appetite is normal and enormous. Balanced availability beats restriction; watch for binge-purge patterns, not portions. Persistent concerns get nutritional guidance.
-
-### Instruction: Frequent nosebleeds in my child. Concerning?
-### Response: Most are dry-air or nose-picking related and benign. Frequent recurrences, heavy flows, easy bruising elsewhere, or family bleeding history deserve evaluation. Humidified air and nail trimming prevent most.
-
-### Instruction: My baby crosses eyes sometimes at 2 months. Normal?
-### Response: Intermittent crossing under 4 months is normal developing control. Persistent crossing beyond 4-6 months, fixed turning, or abnormal head postures need eye evaluation. Photos help visits.
-
-### Instruction: What is vitamin A supplementation program?
-### Response: Scheduled high doses per age in national campaigns, clinic-administered with records. Never repeated at home. Only per program schedule.
-
-### Instruction: My child swallowed extra paracetamol. Dangerous?
-### Response: Paracetamol overdose can silently injure the liver even when the child seems well, so any extra dose beyond directions needs immediate poison guidance or emergency evaluation with the package in hand. Do not wait for symptoms. seek immediate guidance.
-
-### Instruction: Night waking twice weekly with cough. Controlled?
-### Response: Night waking that often means uncontrolled asthma by every guideline, needing step-up review regardless of daytime wellness. Diaries prove patterns visits miss. Reviews adjust from data.
-
-### Instruction: Rocking constantly in my toddler. Normal?
-### Response: Rhythmic rocking soothes many toddlers, fading with development. Clusters with social-language differences warrant screening. Plenty of active play outlets help.
-
-### Instruction: Balanitis red swollen foreskin. Care?
-### Response: Gentle saline cleaning with prescribed treatment per evaluation; recurrent infections or scarring need urology review. Forcing foreskin worsens injury. Prompt assessment decides.
-
-### Instruction: Fava beans danger for my G6PD-deficient son. Explain?
-### Response: Fava beans trigger red-cell breakdown in G6PD deficiency, causing sudden pallor, jaundice, dark urine, and fatigue needing urgent evaluation. Strict avoidance plus trigger-medicine lists from the pediatrician protect. Family screening matters.
-
-### Instruction: Gap between front teeth at 7. Braces now?
-### Response: Ugly-duckling gaps close as canines erupt around 10-12 mostly. Early braces rarely indicated without functional issues. Orthodontic monitoring times any treatment. Patience saves most.
-
-### Instruction: Contact burn from treadmill belt. Care?
-### Response: Friction burns need cool running water care like thermal burns with infection watch. Safety keys and supervision prevent most. Deep friction injuries need evaluation. Unplug when idle.
-
-### Instruction: Fireworks eye injury. First aid?
-### Response: Shield without pressure or rubbing and seek emergency eye care immediately. Speed saves sight. Never remove embedded material. Call emergency for severe injuries. This is emergency information; seek emergency eye care immediately.
-
-### Instruction: Sleep training methods compared?
-### Response: Graduated, chair, pick-up-put-down, and bedtime fading all work with consistency; family fit predicts success more than method. Overtiredness sabotages every method equally. Choose sustainable routines. Persistent issues get pediatric review.
-
-### Instruction: Torticollis stretching protocol. Steps?
-### Response: Physiotherapy-prescribed stretches multiple daily with tummy time and positioning treats most cases. Surgery suits rare refractory cases. Early start works best. Follow therapy exactly.
-
-### Instruction: Flies and food contamination with kids. Prevent?
-### Response: Covered foods, screened windows, handwashing, and prompt refrigeration break fly-borne diarrhea chains. Street-food caution with young children. Hygiene beats treatment.
-
-### Instruction: Rickets vs abuse fractures. Distinguish?
-### Response: Rickets shows beading, bowed legs, delayed milestones with low vitamin D labs; inflicted injury shows varied-age bruises and inconsistent stories. Both need expert evaluation urgently when suspected. Safeguarding protocols apply.
-
-### Instruction: Allergic reaction vs side effect. Distinguish?
-### Response: Hives, swelling, breathing difficulty signal allergy needing urgent review and future avoidance; nausea or mild diarrhea signal side effects managed supportively. New rashes with systemic signs escalate. Document everything.
-
-### Instruction: Excess hair growth in my teen daughter. PCOS?
-### Response: Hirsutism with irregular periods, acne, or weight gain raises PCOS suspicion needing hormonal and ultrasound evaluation. Isolated mild hair growth varies normally. Dermatology plus endocrine coordinate care.
-
-### Instruction: Bag vs catheter urine sample accuracy?
-### Response: Bag samples contaminate frequently causing false positives; catheterized samples diagnose reliably in infants. Positive bag results need confirmation. Collection method decides trust.
-
-### Instruction: Antibiotics with green nasal discharge in bronchiolitis. Needed?
-### Response: Color alone never indicates bacterial infection; fever patterns, ears, and focal findings decide antibiotics. Most green noses resolve virally. Evaluation decides, not color.
-
-### Instruction: Peeling skin on newborn hands. Problem?
-### Response: Post-mature peeling is normal vernix aftermath resolving with plain care. Cracking with redness or poor gain needs evaluation. Moisturize gently.
-
-### Instruction: Noise-canceling headphones at school. Allow?
-### Response: Reasonable accommodation with teacher coordination for sensitive students, balanced with social participation. Formal plans document needs. Trial periods assess.
-
-### Instruction: What is scarlet fever incubation?
-### Response: Typically 1 to 4 days from strep exposure to sore throat plus sandpaper rash. Same-day testing and antibiotics treat it. Finish full courses.
-
-### Instruction: Formula preparation safety steps?
-### Response: Sterilized water per age guidance, exact scoop leveling, cooled boiled water where recommended, immediate use or chilling, and discarding unfinished bottles. Powder is not sterile. Precision protects infants.
-
-### Instruction: My toddler eats only white foods. Concerning?
-### Response: Picky phases are normal with normal growth and energy. Offer variety without pressure, eat together, and keep offering rejected foods across weeks. Weight loss, pallor, or developmental concerns need evaluation.
-
-### Instruction: Umbilical granuloma: what is the treatment?
-### Response: Pink moist bud remaining after cord fall often needs simple clinic treatment with salt or silver nitrate application. Spreading infection signs need evaluation instead. Pediatric review decides.
-
-### Instruction: What is pinworm lifecycle relevant to treatment?
-### Response: Night egg-laying drives household spread; morning showers, nail trimming, and linen changes plus timed repeat dosing break cycles.
-
-### Instruction: Hearing screen referred. Next?
-### Response: Diagnostic ABR within weeks, not months, since language windows narrow fast. Meanwhile maximize face-to-face talk and reading. Early aids transform outcomes. Never wait out failed screens.
-
-### Instruction: My child sleepwalks. Dangerous?
-### Response: Common in deep sleep phases, usually harmless and forgotten. Safety-proof stairs and windows, guide gently back without full waking. Frequent injurious episodes or daytime symptoms need review.
-
-### Instruction: Chemical burn from cleaning product. Rinse duration?
-### Response: Prolonged 20+ minute rinsing with water dilutes chemicals best, removing contaminated clothing meanwhile. Eyes need even longer irrigation. Bring products to evaluation. Urgent assessment follows.
-
-### Instruction: Gluten challenge before testing. Necessary?
-### Response: Accurate celiac testing requires gluten consumption for weeks prior; premature restriction invalidates results. Scheduled challenges precede scopes. Gastroenterology times everything. Patience protects accuracy.
-
-### Instruction: Back pain in teens. When imaged?
-### Response: Persistent pain beyond weeks, night pain, neurological signs, fever, or trauma history trigger imaging; brief muscular pain resolves with activity modification. Red flags decide. Prompt evaluation for flags.
-
-### Instruction: Ear tubes for repeated infections. When?
-### Response: Recurrent infections with persistent fluid and hearing effects meet tube criteria per ENT guidelines. Tubes ventilate the middle ear while outgrown anatomy matures. Hearing tests precede decisions.
-
-### Instruction: Ankle sprain or fracture in my child. Tell apart?
-### Response: Inability to bear weight, deformity, rapid large swelling, or numbness favor fracture needing X-ray; mild sprains improve with rest, ice, compression, elevation. Ottawa-style rules guide imaging decisions. When unsure, image.
-
-### Instruction: My teen needs wisdom teeth out. Always?
-### Response: Impaction, crowding, decay risk, or cystic changes drive removal decisions via imaging, not age alone. Asymptomatic well-positioned teeth get monitored. Oral surgery consults image first.
-
-### Instruction: Mouthwash for a 5-year-old?
-### Response: Swallowing risk outweighs benefit under 6; supervised pea-sized paste with spitting covers prevention. Alcohol-free rinses only when spitting is reliable. Dental guidance decides extras.
-
-### Instruction: My child repeats phrases from shows endlessly. Echolalia normal?
-### Response: Repetitive scripting is normal language play in toddlers; persistent exclusive scripting with poor social use beyond toddlerhood needs developmental evaluation. Interactive reading builds flexible language. Track social communication overall.
-
-### Instruction: Choking hazards to avoid for toddlers?
-### Response: Whole grapes, nuts, popcorn, hard candy, hot dog rounds, raw carrot chunks. Cut round foods lengthwise, supervise all eating, seat children upright. Learn infant choking response in advance.
-
-### Instruction: Feeding therapy indications. When?
-### Response: Aversions, gagging, tube dependence, poor growth, or mealtime distress beyond typical pickiness warrant feeding team evaluation. Multidisciplinary plans work best. Early referral helps most.
-
-### Instruction: My toddler swallowed a coin. Emergency?
-### Response: Coins need same-day evaluation with imaging even if the child seems well. Button battery swallowing is an immediate emergency. Never induce vomiting. Drooling, pain, or breathing difficulty escalate everything. seek care as directed.
-
-### Instruction: Preteen visit at 11-12. What changes?
-### Response: Puberty staging, HPV and meningitis vaccines per schedule, mood screening, and private teen time begin. Growth velocity peaks tracked. Confidentiality explained.
-
-### Instruction: Doctor visits terrify my toddler. Tips?
-### Response: Play doctor at home, honest simple explanations, comfort objects, and praise bravery. Never use injections as threats. Familiarity across visits dissolves most fear.
-
-### Instruction: Hypoglycemia signs I must memorize?
-### Response: Shakiness, sweating, pallor, hunger, confusion, behavior change progressing to seizure and unconsciousness. Fast sugar per plan when swallow-safe; emergency with glucagon per plan when not. Rehearsal saves lives. call emergency for unconsciousness.
-
-### Instruction: Safe sleep after SIDS loss with new baby. Anxiety?
-### Response: Heightened vigilance is normal with strict safe-sleep adherence plus monitoring reassurance per pediatric guidance. Grief counseling continues. Support groups understand uniquely. Be gentle with yourselves.
-
-### Instruction: Feeding refusal in bronchiolitis. How long safe?
-### Response: Brief reduced intake with maintained wet diapers is tolerated; persistent refusal with dehydration signs needs admission for supported fluids. Small frequent attempts work best. Monitor output closely.
-
-### Instruction: My toddler seized during a fever. What do I do?
-### Response: Note the time, cushion the head, turn onto the side, never put anything in the mouth. Most brief febrile seizures stop alone. First seizure, seizure over 5 minutes, repeated seizures, or slow recovery all need urgent care. call emergency for seizures over 5 minutes.
-
-### Instruction: Antibiotic diarrhea during course. Continue?
-### Response: Mild loose stools accompany many courses; finish prescribed treatment with fluids and probiotic foods unless severe, bloody, or dehydrating signs appear. Stopping early breeds resistance. Report severe patterns promptly.
-
-### Instruction: Tablet tantrums at removal. Manage?
-### Response: Visual timers, transition warnings, and consistent rules prevent most meltdowns. Never negotiate mid-scream. Calm consistency wins. Alternatives ready at handoff.
-
-### Instruction: Pasturella after cat bite timing. How fast?
-### Response: Painful swelling within hours signals pasteurella needing prompt antibiotics, distinguishing from slower staph infections. Hand locations escalate urgency. Early treatment prevents joint spread.
-
-### Instruction: Bilingual home delaying speech. True?
-### Response: Bilingualism causes no true delay; milestones apply across total language exposure. Single-language norms mislead bilingual assessments. Rich input in each language works. Evaluators adjust accordingly.
-
-### Instruction: What is bleeding first-aid summary?
-### Response: Firm direct pressure, layered cloths, raised limb, emergency for spurting, large, facial, or embedded wounds. Note blood thinner use. call emergency for severe bleeding.
-
-### Instruction: Zinc deficiency signs in kids?
-### Response: Poor growth, hair loss, skin lesions, weak immunity, and taste changes suggest testing in at-risk diets. Supplementation follows confirmed need. Dietary diversity prevents most.
-
-### Instruction: Croup vs epiglottitis?
-### Response: Croup has barky cough with hoarseness and low fever; epiglottitis is rare, with drooling, trouble swallowing, sitting upright distress, and high fever, needing emergency care. Vaccination made epiglottitis rare. Never examine such a throat at home. epiglottitis signs need emergency care.
-
-### Instruction: Eczema vs ringworm: how to tell?
-### Response: Eczema is ill-defined dry itchy patches in folds and cheeks; ringworm is a sharp ring-shaped scaly circle. Fungal creams worsen eczema and steroid creams worsen ringworm, so correct identification matters. Pediatric review settles unclear cases.
-
-### Instruction: My newborn grunt-feeds and turns dusky. Normal newborn noises?
-### Response: Periodic breathing and grunting can be normal newborn patterns, but dusky color with poor feeding crosses into evaluation territory, especially with sweating or breathlessness during feeds. Record video for the visit. Prompt assessment decides.
-
-### Instruction: 12-month well visit: what happens?
-### Response: Walking, first words, weaning guidance, measles and chickenpox vaccines per schedule, anemia screening, and lead testing where indicated. Party after jabs. Records complete the year.
-
-### Instruction: Wildfire smoke and kids playing outside. Limits?
-### Response: Air-quality thresholds cancel outdoor play with indoor filtration days during smoke events. Masks fit poorly on small faces. Vulnerable children stay in earliest. Official indices guide daily decisions.
-
-### Instruction: What is HPV vaccine age?
-### Response: Preadolescent initiation per national program with catch-up windows. Mild local effects occur. Follow program records.
-
-### Instruction: Port-wine stain on my baby's face. Laser?
-### Response: Facial port-wine stains get dermatology review for laser timing plus eye and brain screening when eyelid or forehead involved. Early laser works best. Most need planned series.
-
-### Instruction: Fidget tools in class. Distraction?
-### Response: Silent fidgets aid focus for many with teacher agreements on types and times. Disruptive gadgets get swapped. Individual trials decide.
-
-### Instruction: My child finished strep antibiotics but throat still hurts. Normal?
-### Response: Mild residual soreness for a day or two can occur, but persistent pain, renewed fever, or one-sided severe pain with drooling needs prompt reevaluation for abscess.
-
-### Instruction: What is calamine lotion for?
-### Response: Soothes itching from rashes and chickenpox externally. Not for open or infected sores. Widespread infected rash needs evaluation.
-
-### Instruction: How often should my newborn feed?
-### Response: Every 2 to 3 hours, 8 to 12 times daily, on demand. Regain of birth weight by 2 weeks confirms adequacy. Poor weight gain needs review.
-
-### Instruction: Sore throat with cough and runny nose: strep?
-### Response: Unlikely: cough and runny nose point viral, and strep rarely causes cough. Supportive care applies; testing is for the sudden-fever-no-cough pattern.
-
-### Instruction: Dust storms (khamaseen) with asthmatic kids. Protect?
-### Response: Sealed windows, indoor days, reliever per action plan, and masks for older children during storms. Breathing difficulty despite measures needs urgent care. Seasonal patterns allow preparation.
-
-### Instruction: Edible cannabis found chewed. Effects?
-### Response: Delayed drowsiness, vomiting, and breathing changes need emergency evaluation with product details. Childproof all cannabis products. Call poison guidance now. Legal status never affects medical urgency. This is emergency information; call poison control now.
-
-### Instruction: Splenic sequestration signs. Action?
-### Response: Sudden belly enlargement with pallor, sleepiness, and pain needs emergency care immediately for trapped blood. Parents learn spleen palpation in clinic. Speed saves lives. This is emergency information; seek emergency care immediately.
-
-### Instruction: Circumcision bleeding a lot. Normal?
-### Response: Spotting is common; steady bleeding soaking dressings needs urgent evaluation with pressure meanwhile. Note timing for the call. Emergency for uncontrolled bleeding.
-
-### Instruction: First bath timing for newborn?
-### Response: Delayed 24 hours where feasible per current guidance, with warm quick sponge baths and drying meanwhile. Cord care stays dry throughout. Follow hospital teaching.
-
-### Instruction: My baby doesn't startle at loud sounds. Hearing problem?
-### Response: Newborn hearing screening catches most issues, but failed or missed screens plus no startle, no response to name later, or speech delay need prompt hearing tests. Early detection transforms outcomes.
-
-### Instruction: Brown inhaler vs blue inhaler?
-### Response: Brown (or orange) controllers prevent inflammation daily; blue relievers rescue attacks fast. Confusing them — skipping brown, overusing blue — is the classic route to severe attacks. The action plan assigns each its role.
-
-### Instruction: What is bronchiolitis in simple words?
-### Response: Viral swelling of infants' tiniest airways causing first-time wheeze with a cold, usually under age 2. Supportive care carries them through; labored breathing or poor feeding needs prompt care.
-
-### Instruction: Ibuprofen or paracetamol for my child's fever?
-### Response: Both relieve fever and pain in eligible ages; paracetamol suits all ages per package while ibuprofen starts over 6 months. Neither treats the cause, and dosing for both is weight-based via pharmacist.
-
-### Instruction: Viral vs bacterial sore throat?
-### Response: Viral brings cough, runny nose, hoarseness; bacterial strep brings sudden fever, swollen glands, no cough. Only testing confirms strep needing antibiotics.
-
-### Instruction: Constitutional delay vs deficiency. Difference?
-### Response: Delayed teens with family patterns and delayed bone age matching height age grow late but normally; deficient children lack puberty hormones needing treatment. Endocrine testing distinguishes. Time plus testing decides.
-
-### Instruction: Geographic tongue in my child. Disease?
-### Response: Benign migrating tongue patches needing no treatment, sometimes sensitive to spicy foods. Reassurance suffices. Persistent ulcerated or single-spot lesions get evaluated instead.
-
-### Instruction: When should my baby smile, sit, walk?
-### Response: Social smile around 6-8 weeks, sitting unsupported around 6-9 months, walking 12-18 months — wide normal ranges. Loss of achieved milestones always needs prompt evaluation, more than lateness alone. Track with your pediatrician's charts.
-
-### Instruction: My child is unusually sleepy with diarrhea. Dangerous?
-### Response: Unusual sleepiness with fluid loss is a severe dehydration warning needing emergency care now. Do not wait to see if ORS works. Go immediately. seek emergency care.
-
-### Instruction: What is fracture first-aid summary?
-### Response: Immobilize as found, cold compress, no straightening, emergency for deformity, numbness, open wounds, or large bones. Comfort and stillness help most. call emergency for severe fractures.
-
-### Instruction: How do I use a bulb aspirator safely?
-### Response: Squeeze before inserting, place gently at nostril edge, release slowly to suction, then expel mucus onto tissue. Saline drops first loosen mucus. Stop with any bleeding and use gentle pressure only.
-
-### Instruction: Baby sunscreen under 6 months. Rule?
-### Response: Shade and clothing protect under 6 months with tiny exposed-area sunscreen only when unavoidable. Hats and timing beat products. Blistering burns need care.
-
-### Instruction: Bleach baths exact protocol. Safe?
-### Response: Dermatology-prescribed dilutions with exact measurements and timing, never improvised concentrations. Rinse and moisturize after. Reviews monitor skin response. Confirm every detail with the prescriber.
-
-### Instruction: My child's eczema weeps yellow crusts. Infected?
-### Response: Yellow crusting and oozing suggest secondary bacterial infection needing prompt prescription treatment, not stronger home steroids. Spreading redness with fever needs same-day care.
-
-### Instruction: Fever with stiff neck in my 6-year-old. Meaning?
-### Response: Fever with neck stiffness, severe headache, light sensitivity, or lethargy can signal meningitis needing emergency care immediately. Do not wait for rash. Go now. seek emergency care.
-
-### Instruction: Autopsy consent for child death. Purpose?
-### Response: Answers for grief, genetic risks for siblings, and medical learning motivate autopsies with respectful procedures. Limited scopes respect boundaries. Decisions are personal. Counseling explains fully.
-
-### Instruction: My toddler drank from grandparents' pill organizer. Emergency?
-### Response: Unknown multi-drug ingestion needs emergency evaluation with the organizer contents brought along. Never wait for symptoms with unknown exposures. Call poison guidance immediately. This is emergency information; seek emergency care immediately.
-
-### Instruction: What is responsive feeding?
-### Response: Following hunger and fullness cues without pressure, with shared mealtimes and repeated neutral exposures. Forcing bites backfires long-term. Growth tracking validates the approach.
-
-### Instruction: Antibiotic and vaccines timing. Interact?
-### Response: Most antibiotics don't affect inactivated vaccines; live oral vaccines time around antibiotics per guidance. Illness itself usually drives timing, not the drug. Clinics schedule appropriately. Ask per visit.
-
-### Instruction: Growing pains vs restless legs. Difference?
-### Response: Growing pains ache evenings bilaterally vanishing mornings; restless legs urge movement with discomfort easing in motion, disrupting sleep. Iron links to restless legs get tested. Different treatments follow.
-
-### Instruction: My 6-month-old has a fever of 39C but plays happily. Should I worry?
-### Response: A playful alert infant with fever is reassuring, and comfort measures with fluids apply. Still watch for breathing difficulty, rash, persistent vomiting, or fever beyond 3 days, which need evaluation.
-
-### Instruction: My infant has blisters only in the mouth, no rash. Still hand foot mouth?
-### Response: Possibly: mouth-only presentations occur, especially early. Same dehydration watch applies. Herpangina is a close cousin with similar care. Pediatric review settles atypical cases.
-
-### Instruction: What are zinc supplements for in diarrhea?
-### Response: WHO recommends zinc alongside ORS during childhood diarrhea episodes, reducing duration and recurrence. It supplements ORS, never replaces it, given per schedule with pharmacist guidance.
-
-### Instruction: My child has extra teethdouble row. Shark teeth normal?
-### Response: Lower front double rows commonly resolve as tongue pushes baby teeth out. Persistent overlap beyond months needs dental review for extractions. Monitor with dental visits.
-
-### Instruction: When to drop night feeds?
-### Response: Most infants drop night feeds between 4-6 months with adequate daytime intake and weight gain. Gradual reduction beats abrupt bans. Persistent night hunger with poor days needs review. Follow the baby's growth.
-
-### Instruction: What dose of ibuprofen for a 20kg child?
-### Response: I do not provide drug doses: pediatric dosing is weight-based and must be confirmed with a pharmacist using the package and the child's current weight. What I can explain: ibuprofen suits children over 6 months per guidance, not infants, with stomach upset as a known effect.
-
-### Instruction: My child has fluid behind the eardrum but no pain. Is that a problem?
-### Response: Painless middle-ear fluid after infections is common and often clears in weeks. Persistent fluid with hearing concerns needs pediatric hearing checks, since hearing affects speech development.
-
-### Instruction: Hiccups constantly in newborn. Problem?
-### Response: Frequent newborn hiccups are normal diaphragm immaturity. Feeding position tweaks and burping reduce bouts. Persistent vomiting with hiccups needs evaluation. Time resolves most.
-
-### Instruction: My newborn is yellow on day 3. Jaundice?
-### Response: Common physiologic jaundice peaks days 3-5 as the liver matures, monitored with bilirubin checks and feeding support. Yellow within 24 hours, pale stools, dark urine, poor feeding, or prematurity lower the threshold for treatment.
-
-### Instruction: What is seizure first-aid summary?
-### Response: Time it, cushion head, side position, nothing in mouth, stay until recovered, emergency for over 5 minutes or repeats. Video and details guide neurology. call emergency for prolonged seizures.
-
-### Instruction: Tummy time: how much and why?
-### Response: Short sessions totaling 20-30 minutes daily from the newborn weeks build neck, shoulder, and motor strength and prevent flat spots. Fussiness is normal; increase gradually.
-
-### Instruction: My child has a small cut. Stitches needed?
-### Response: Gaping, deep, through the lip border, eyelid-involving, or briskly bleeding cuts need same-day evaluation for closure. Clean small cuts with running water, press to stop bleeding, cover.
+### Instruction: Molluscum spreading across eczema. Treat actively?
+### Response: Eczema superinfection risk justifies active molluscum treatment plus eczema control together. Scratching spreads both. Dermatology coordinates dual care. Patience with combined plans works.
+
+### Instruction: How long does bronchiolitis last?
+### Response: Peak misery days 3 to 5, gradual improvement over 1 to 3 weeks, with lingering cough common. Worsening after day 5 or new fever deserves reevaluation.
 
 ### Instruction: Croup in infant under 6 months. Different?
 ### Response: Young infant stridor broadens differentials including airway malformations, needing lower evaluation thresholds. Urgent assessment applies sooner. Age changes everything.
 
-### Instruction: Perthes limp in 6-year-old. Management?
-### Response: Hip synovitis versus Perthes needs imaging with containment treatment for confirmed cases. Activity modification protects femoral heads. Orthopedic staging guides years of care. Patience with protocols works.
+### Instruction: Foster care health passport. What is it?
+### Response: Comprehensive records traveling with placements ensuring continuity across moves. Medical homes anchor care. Trauma-informed providers matter most. Advocate for completeness.
 
-### Instruction: Sleep deprivation psychosis risk. Mitigate?
-### Response: Shift sleeping guaranteeing one 4-hour block protects sanity fundamentally. Fragmented months accumulate dangerously. Support networks enable shifts. Professional help for breakage signs. Sleep is medicine.
+### Instruction: My toddler vomits every car ride but is fine otherwise. Problem?
+### Response: Classic motion sickness pattern: face-forward seating, fresh air, planned stops, and pre-trip light meals manage most cases. Vomiting outside vehicles, headaches with vomiting, or dehydration change the picture toward evaluation.
 
-### Instruction: My child burned a finger on the stove. What now?
-### Response: Cool running water 10 to 20 minutes immediately, then cover loosely. Large areas, face/hands/joint blistering, or white charred skin need urgent or emergency care. Never apply ice, butter, or toothpaste.
+### Instruction: What helps croup at home?
+### Response: Calm holding, upright posture, cool mist or night air, and fluids. Crying worsens the narrowing, so soothing matters as much as any remedy. Steroid treatment decisions belong to the clinician seeing the child.
 
-### Instruction: What is immunity?
-### Response: The body's defense system remembering past infections and vaccines to fight them faster next time. Breastmilk shares temporary immunity; vaccines build lasting immunity safely.
+### Instruction: My child coughs only when laughing or crying. Meaning?
+### Response: Exertion-triggered cough suggests airway twitchiness in the asthma family. Allergy history and night symptoms strengthen suspicion toward evaluation. Reliever response patterns guide diagnosis.
 
-### Instruction: Vitamin D drops for my breastfed baby?
-### Response: Breastfed infants often need vitamin D per national schedules since milk runs low. Follow schedule and package directions with pediatric confirmation.
+### Instruction: What is rotavirus vaccine?
+### Response: Oral infant series with strict timing windows per schedule, preventing severe dehydrating diarrhea. Mild fussiness or loose stools are known effects. Missed windows need pediatric guidance.
 
-### Instruction: What is rubella risk in pregnancy contacts?
-### Response: Mild in children but devastating to fetuses, causing birth-defect syndromes. Exposed pregnant contacts need immediate obstetric advice. Vaccination protects communities.
+### Instruction: My child has constant thirst and urination. Diabetes?
+### Response: Excessive thirst with frequent urination and weight loss needs prompt glucose testing for diabetes. Do not delay for observation. Emergency care for vomiting with fruity breath.
 
-### Instruction: What is dehydration check summary?
-### Response: Thirst, mouth, tears, eyes, diapers, skin pinch, alertness: two concerns prompt evaluation, severe signs mean emergency, ORS meanwhile always.
+### Instruction: wheeze baby first time 10 months
+### Response: First wheeze with cold under 2 fits bronchiolitis with supportive care: fluids, suction, monitoring. Fast breathing, ribs showing, pauses, or poor feeding need prompt care. Antibiotics don't treat viruses.
 
-### Instruction: My 4-year-old only eats beige food. ARFID?
-### Response: Selective phases are common; impairing selectivity with weight loss, nutritional deficiency, or extreme distress around new foods deserves feeding evaluation. Pressure worsens avoidance. Professional feeding therapy helps severe cases.
+### Instruction: My child smells everything compulsively. Concerning?
+### Response: Sensory exploration is normal in toddlers; compulsive patterns with developmental clusters need screening. Redirect kindly without shaming. Watch the whole developmental picture.
 
-### Instruction: Can I alternate ibuprofen and paracetamol?
-### Response: Alternating schedules confuse dosing and risk overdose errors; single-agent treatment per package with pharmacist-confirmed weight dosing is safer. Persistent fever despite correct dosing needs evaluation, not schedule experiments.
+### Instruction: Impetigo return-to-school timing?
+### Response: After treatment starts with covered sores per most policies, typically 24 hours into antibiotics. Hygiene stops household spread. Finish courses fully. Follow school rules.
 
-### Instruction: My toddler hits when angry. How to respond?
-### Response: Calm brief boundary with removal from the situation, then reconnect and name feelings. Hitting peaks in toddlerhood and fades with language growth. Injurious patterns or regression need professional guidance.
+### Instruction: What dose of dexamethasone for croup at home?
+### Response: I do not provide drug doses: croup steroids are weight-based and prescribed per severity under supervision. Confirm with the prescriber. What I can explain: single supervised doses reduce airway swelling with temporary appetite and mood effects.
+
+### Instruction: Myopia control options for kids?
+### Response: Outdoor time, low-dose atropine drops, orthokeratology, and multifocal contacts per eye-specialist guidance slow progression variably. Annual monitoring tracks control. Early action compounds benefits.
+
+### Instruction: Baby sunscreen under 6 months. Rule?
+### Response: Shade and clothing protect under 6 months with tiny exposed-area sunscreen only when unavoidable. Hats and timing beat products. Blistering burns need care.
+
+### Instruction: My child fell on an outstretched arm, elbow swollen. Fracture?
+### Response: Elbow swelling after falls needs same-day X-ray since growth-plate injuries hide easily. Numbness, pale cold hand, or severe deformity escalate to emergency. Immobilize as found meanwhile.
+
+### Instruction: What dose of cetirizine for a 5-year-old?
+### Response: I do not provide drug doses: confirm with a pharmacist using age labeling and weight. What I can explain: cetirizine covers allergy symptoms with drowsiness possible in some children, and persistent cases need pediatric review.
+
+### Instruction: What is clotrimazole cream for?
+### Response: Ringworm and yeast rashes per pharmacist guidance for the full course. Scalp or nail involvement needs oral prescription. Persistent lesions need review.
+
+### Instruction: My baby was born at 2.2kg. Special care needed?
+### Response: Low birth weight babies need warmth (skin-to-skin), frequent feeding support, infection vigilance, and close growth monitoring. Most thrive with attentive follow-up schedules. Pediatric guidance sets the visit cadence.
+
+### Instruction: rash all over body child fever
+### Response: Fever with widespread rash has many causes from viral to scarlet fever to Kawasaki patterns; behavior, duration, and rash character guide urgency. Non-fading purple spots need emergency care. Evaluation decides.
+
+### Instruction: Worm medicine for the whole family?
+### Response: Pinworm treatment usually covers the household simultaneously per pharmacist guidance, since asymptomatic carriers reinfest. Single-dose schedules with hygiene measures break cycles. Confirm the plan with a pharmacist.
+
+### Instruction: Vaccines: which ones and when?
+### Response: Schedules vary by country and year: BCG, pentavalent, polio, pneumococcal, rotavirus, measles in infancy per the national program, with boosters later. Keep the record card safe and catch up missed doses per pediatric guidance.
+
+### Instruction: Toddler's fracture with mild limp only. X-ray needed?
+### Response: Subtle spiral shin fractures present as unexplained limping needing X-ray despite mild signs. Immobilization heals most simply. Persistent unexplained limps always image.
+
+### Instruction: Lanugo hair all over newborn. Normal?
+### Response: Fine newborn body hair sheds within weeks, more in preemies. No treatment needed. Persistent excessive hair with other signs needs evaluation. Time resolves most.
+
+### Instruction: Eczema behind baby ears with crusting. Infected?
+### Response: Fold eczema crusts easily; gentle cleaning with barrier care manages mild cases, while spreading, oozing, or fever needs prompt evaluation. Pediatric review grades severity.
+
+### Instruction: epinephrine pen expire use?
+### Response: Expired injectors beat none in anaphylaxis while awaiting replacement; check dates routinely and replace proactively. Action plans stay current. Speed saves lives.
+
+### Instruction: eczema bleach bath ratio?
+### Response: Dermatology-prescribed exact dilutions only, never improvised concentrations, with rinse and moisturize after. Reviews monitor response. Confirm every detail with the prescriber.
+
+### Instruction: What is guaifenesin for in children?
+### Response: An expectorant with limited pediatric role; fluids, honey over 1 year, and humid air help more. Persistent cough needs evaluation, not stronger syrups.
+
+### Instruction: Scoliosis found at school screening. Next?
+### Response: Small curves get observed with interval X-rays; bracing applies in growth-phase moderate curves; severe curves need surgical discussion. Backpacks don't cause scoliosis. Orthopedic scheduling follows curve size.
+
+### Instruction: Magnet plus battery swallowed together. Worse?
+### Response: Combined magnetic-battery ingestion compounds tissue injury needing immediate emergency imaging and intervention. Time criticality doubles. Go now with details. This is emergency information; seek emergency care immediately.
+
+### Instruction: Bath scald temperature threshold. Set heater?
+### Response: Heater settings below scalding with tap testing every use prevent bath burns. Anti-scald devices add safety. Elbow testing guides. Never leave unattended. Burns happen in seconds.
+
+### Instruction: Tetanus booster after every wound. Needed?
+### Response: Boosters follow interval rules, not every wound, with dirty wounds shortening thresholds. Records decide each case. Over-vaccination wastes visits. Clinics track schedules.
+
+### Instruction: Milk anemia mechanism explained?
+### Response: Excess cow's milk displaces iron foods, irritates infant gut causing micro-bleeding, and its calcium blocks iron absorption triply. Capping milk treats root causes. Testing confirms.
+
+### Instruction: Toilet training: when to start?
+### Response: Readiness signs (dry periods, interest, following instructions) typically 18-30 months matter more than age. Pressure backfires; patience with routine sits wins. Regression with stress is normal.
+
+### Instruction: Skin picking until sores. Help?
+### Response: Excoriation signals anxiety or habit needing compassionate professional support with competing-response strategies. Infected sores need medical care alongside. Treat causes and wounds together.
+
+### Instruction: My child is the shortest in class. Problem?
+### Response: Family short stature with normal growth velocity and bone age is healthy variation. Slowing velocity, crossing curves down, or puberty delay need endocrine evaluation. Growth records decide, not class ranking.
+
+### Instruction: Fetal anomaly found on ultrasound. Next?
+### Response: Specialist confirmation with prognosis counseling, delivery planning, and support resources follows any significant finding. Second opinions validate major news. Time-sensitive decisions get unhurried counseling.
+
+### Instruction: Coral cuts care?
+### Response: Forceful cleaning with soap and water, foreign-body removal, and infection watch since marine wounds infect easily. Persistent redness needs evaluation. Antibiotic decisions follow marine protocols.
+
+### Instruction: My child swallowed extra paracetamol. Dangerous?
+### Response: Paracetamol overdose can silently injure the liver even when the child seems well, so any extra dose beyond directions needs immediate poison guidance or emergency evaluation with the package in hand. Do not wait for symptoms. seek immediate guidance.
+
+### Instruction: What is nosebleed first-aid summary?
+### Response: Pinch soft nose 10-15 minutes leaning forward, spit blood, humidify after. Past 20 minutes, heavy bilateral flow, or post-injury bleeds need evaluation.
+
+### Instruction: What is an allergy?
+### Response: Immune overreaction to harmless substances like pollen or foods, causing sneezing, hives, or swelling. Avoidance plus antihistamines manage mild cases; breathing difficulty means emergency.
+
+### Instruction: Background TV harm. Evidence?
+### Response: Background television reduces parent talk and play quality measurably. Off during play and meals helps most. Music substitutes nicely. Switch off deliberately.
+
+### Instruction: Crayon eaten. Toxic?
+### Response: Standard crayons are non-toxic with stool color changes only. Choking-size pieces matter more than chemistry. Supervise art time. Poison verification reassures.
+
+### Instruction: What is lice lifecycle relevant to treatment?
+### Response: Nits hatch in about a week, so repeat treatment timing targets hatchlings before they lay. Simultaneous household treatment with combing breaks cycles.
 
 ### Instruction: Sever's heel pain in my young athlete. Growing pain?
 ### Response: Heel pain with activity in 8-14 year olds fits calcaneal irritation eased by rest, ice, heel cups, and calf stretching. Limping, swelling, or injury context need evaluation. Growth resolves most.
 
-### Instruction: What dose of zinc supplements during diarrhea?
-### Response: I do not provide drug doses: zinc schedules with ORS follow national guidance by age. Confirm with a pharmacist. What I can explain: zinc shortens diarrhea duration and complements ORS, never replacing fluids.
+### Instruction: 5-year school entry exam. Contents?
+### Response: Growth, vision, hearing, vaccine completeness, developmental readiness, and health action plans for school. Forms completed together. Concerns referred early.
+
+### Instruction: fever not going 4 days
+### Response: Fever persisting 4 or more days needs evaluation rather than continued home care, especially with poor appetite, rash, or lethargy. Track readings with symptoms for the visit. Brief viral fevers resolve in 3 to 4 days.
+
+### Instruction: Hydrocele in my infant son. Surgery needed?
+### Response: Communicating infant hydroceles often resolve by age 1-2 with monitoring. Sudden painful groin swelling suggests torsion needing emergency care. Pediatric surgery schedules reviews.
+
+### Instruction: Greenstick fracture meaning?
+### Response: Bent-but-not-broken pediatric bone needing protection while remodeling straight with growth. Splinting with activity limits suffices mostly. Orthopedic monitoring confirms alignment. Young bones remodel remarkably.
+
+### Instruction: My child memorizes whole books but can't converse. Meaning?
+### Response: Strong rote memory with weak flexible conversation fits developmental language patterns needing speech evaluation. Build interactive turn-taking deliberately. Professional assessment guides therapy.
+
+### Instruction: Cluster feeding every hour all evening. Normal?
+### Response: Normal newborn behavior building supply, exhausting but typical in early weeks. Frequent effective feeds with good output reassure. Poor gain or inconsolable patterns need review. Rest when baby sleeps.
+
+### Instruction: Nipple pain and cracks while breastfeeding. Fix?
+### Response: Latch depth correction fixes most pain; positioning help, lanolin, and air-drying aid healing. Persistent damage, mastitis signs, or poor transfer need lactation plus medical review. Feed through manageable pain.
+
+### Instruction: Chest sinks inward in my teen (pectus). Problem?
+### Response: Mild pectus excavatum is cosmetic with normal function; severe cases with exercise intolerance or cardiac compression need surgical evaluation. Breathing tests and imaging grade severity.
+
+### Instruction: Superabsorbent bead swallowed. Expand risk?
+### Response: Water beads expand causing obstruction needing evaluation with product details, sometimes serial imaging. Vomiting or pain escalates. Poison guidance directs. Keep products away.
+
+### Instruction: Car seat test before NICU discharge. What is it?
+### Response: Monitored seating trials detect desaturation dictating car-bed alternatives. Positioning adjustments fix most failures. Safety precedes convenience. Testing protects.
+
+### Instruction: Can children take ibuprofen for fever?
+### Response: Ibuprofen is sometimes used for fever or pain in children over 6 months per pediatric guidance, and not in infants under 6 months. Stomach upset is a known side effect, and dehydrated children need medical advice first. Dosing is weight-based, so confirm the dose with your pharmacist.
+
+### Instruction: What is poisoning first-aid summary?
+### Response: Identify substance, amount, time, and weight, call poison guidance, never induce vomiting unless told, bring packaging. Speed with information saves most. call poison control now.
+
+### Instruction: Eczema herpeticum signs to know?
+### Response: Punched-out blisters with fever in eczema areas signal herpes superinfection needing urgent antiviral treatment. Rapid spread threatens sight near eyes. Emergency evaluation applies. seek urgent care for these signs.
+
+### Instruction: On-and-off fever for 2 weeks in my child. Workup?
+### Response: Prolonged intermittent fever needs stepwise workup: infections, inflammatory conditions, and malignancy screening per pediatric protocols. Detailed diaries with growth charts guide specialists. Persistent patterns never wait out.
+
+### Instruction: Drug rash with fever after new medicine. Emergency?
+### Response: Fever with spreading rash after drug initiation can signal severe hypersensitivity needing urgent evaluation with medicine lists in hand. Stop suspect drugs only per guidance. Speed matters. Bring all packaging. This is emergency information for severe patterns; seek urgent care.
+
+### Instruction: How do I give medicine with a syringe?
+### Response: Shake if directed, draw the pharmacist-confirmed amount at eye level, squirt slowly toward the inner cheek in small pulses with the child upright. Never dose with kitchen spoons. Confirm every amount with a pharmacist.
+
+### Instruction: Eczema cream with steroids: how long to use?
+### Response: Mild steroids in short courses per pediatric guidance, stopping as skin clears and restarting for flares. Prolonged unsupervised use thins skin. Face and fold areas need extra medical direction.
+
+### Instruction: Epinephrine mist for croup. What does it do?
+### Response: Nebulized epinephrine shrinks airway swelling fast for moderate-severe croup with hours of effect, buying steroid onset time. Observation follows for rebound. Hospital settings administer.
+
+### Instruction: Fever after MMR around day 7-10. Expected?
+### Response: Delayed mild fever or rash 1-2 weeks post-MMR reflects immune response, settling quickly. High persistent fever or concerning rash needs evaluation regardless. Track timing for visits.
+
+### Instruction: Pill swallowing training age. Teach?
+### Response: Tiny candies progressing sizes with head-position techniques teach most school-age children successfully. Liquid reliance ends with practice. Occupational tips help difficult cases. Practice with treats first.
+
+### Instruction: What is stranger anxiety in infants?
+### Response: Normal developmental stage from around 6 months showing healthy attachment. Forcing contact backfires; gradual warm exposure works. It passes with growth.
+
+### Instruction: Sports with chronic illness. Enable?
+### Response: Condition-specific precautions with action plans enable most participation safely. Uncontrolled phases restrict temporarily. Physicians tailor guidance individually. Fullest safe participation benefits health.
+
+### Instruction: Eye drops sting complaints. Minimize?
+### Response: Chilled drops, punctal pressure, closed-eye administration, and distraction reduce sting dramatically. Practice with artificial tears first. Technique matters most.
+
+### Instruction: Cyclic neutropenia fever pattern. Concern?
+### Response: Regular fever with mouth ulcers and infections on 3-week cycles suggests neutrophil cycling needing blood-count timing and specialist care. Infection vigilance applies. Hematology guides management.
+
+### Instruction: Honey for my 8-month-old's cough?
+### Response: A bedtime teaspoon soothes cough in children over 1 year. Under 12 months honey is strictly forbidden due to infant botulism risk. Persistent cough still needs evaluation.
+
+### Instruction: vomiting vs spit up baby how tell
+### Response: Spit-up dribbles contentedly with good gain; vomiting expels forcefully with distress, poor gain, blood, green color, or dehydration. Frequency and force decide. Track patterns.
+
+### Instruction: Breast lump with fever while nursing. Mastitis?
+### Response: Painful wedge with fever fits mastitis needing prompt evaluation and usually antibiotics with continued feeding. Emptying the breast helps recovery. Abscess signs escalate priority. Do not stop nursing abruptly.
+
+### Instruction: Rough bumps on my child's hands. Warts?
+### Response: Rough skin bumps on hands fit common warts, benign and often self-resolving over months to years. Pharmacy treatments per directions help selected cases. Facial warts, rapidly spreading ones, or sole warts limiting walking need evaluation.
+
+### Instruction: My 6-year-old complains of chest pain after running. Heart issue?
+### Response: Exercise chest pain with normal rest, brief sharp character, and reproducible chest-wall tenderness is usually musculoskeletal. Fainting, palpitations, family heart history, or pain at rest need cardiac evaluation. Note exact circumstances.
+
+### Instruction: Oleander leaf chewed. Cardiac risk?
+### Response: Oleander contains cardiac glycosides threatening rhythm needing emergency evaluation with plant samples. Do not wait for symptoms. Call poison guidance immediately. This is emergency information; seek emergency care immediately.
+
+### Instruction: Dark cola urine with swelling around eyes. Glomerulonephritis?
+### Response: Classic post-infectious kidney inflammation pattern needing prompt evaluation with blood pressure checks and labs. Salt and fluid guidance applies meanwhile. Urgent assessment decides.
+
+### Instruction: My sick child wants to fast Ramadan. Exemption rules?
+### Response: Illness exempts from fasting with makeup days later; dehydration, medication needs, and diabetes make fasting unsafe for sick children. Pediatric plus religious guidance personalizes. Health precedes ritual always.
+
+### Instruction: Reading aloud daily impact quantified?
+### Response: Daily reading builds vocabulary gaps of millions of words by school entry with dose-response benefits. Interactive dialogue reading multiplies effects. Fifteen minutes daily transforms trajectories. Start tonight.
+
+### Instruction: My infant has blisters only in the mouth, no rash. Still hand foot mouth?
+### Response: Possibly: mouth-only presentations occur, especially early. Same dehydration watch applies. Herpangina is a close cousin with similar care. Pediatric review settles atypical cases.
+
+### Instruction: Polio drops vs injection?
+### Response: Schedules combine oral and injected polio vaccines per national program plus campaigns. Both are safe and each plays a role. Follow the program card exactly.
+
+### Instruction: My 18-month-old says no words. Concerning?
+### Response: Few or no words by 18 months deserves hearing check and developmental review, not waiting. Early intervention works best early. No babbling by 9 months or no gestures by 12 months are earlier flags.
+
+### Instruction: Discharge criteria for preemies. What must pass?
+### Response: Feeding adequacy, thermal stability, breathing maturity, weight thresholds, car-seat testing, and parent training complete before homecoming. Checklists ensure readiness. Follow-up scheduled tightly.
+
+### Instruction: honey cough age limit why
+### Response: Honey soothes cough over age 1; under 12 months it risks infant botulism, a paralyzing illness. The boundary is absolute. Persistent cough needs evaluation regardless.
+
+### Instruction: New diabetes diagnosis in my child. What changes?
+### Response: Glucose monitoring, insulin per plan, carb awareness, school coordination, and hypoglycemia rehearsal restructure daily life with diabetes team support. Children thrive with structured routines. Professional education carries families through.
+
+### Instruction: Preemie eye exams (ROP). Schedule?
+### Response: Retinopathy screening follows gestational-age protocols with timely laser or injection treatment when thresholds hit. Missing windows blinds preventably. NICU follow-up schedules strictly. Never skip eye reviews.
+
+### Instruction: Capnocytophaga after dog lick on wound. Risk?
+### Response: Dog saliva into wounds rarely causes overwhelming infection, especially without spleens, needing urgent evaluation with exposure history. Rapid sepsis signs escalate to emergency. Prevention is wound covering.
+
+### Instruction: My infant prefers turning head one way with a flat spot. Torticollis?
+### Response: Neck tightness with head tilt and flattening fits torticollis: stretching exercises and physiotherapy resolve most cases. Worsening asymmetry or developmental concerns need evaluation. Early treatment works best.
+
+### Instruction: My 6-year-old has sudden sore throat and fever without cough. Strep?
+### Response: Sudden sore throat with fever and swollen glands but no cough fits strep throat and needs testing, since only tests distinguish it from viral sore throat. Viral cases need no antibiotics; confirmed strep needs the full prescribed course.
+
+### Instruction: Button batteries in toys: check how?
+### Response: Screw-secured compartments only; tape is not a lock. Loose compartments need taping plus replacement toys. Swallowing suspicion is immediate emergency. Audit every remote, card, and toy.
+
+### Instruction: Sunken eyes in my sick toddler. What does it mean?
+### Response: Sunken eyes signal meaningful fluid loss and need prompt evaluation with ORS started meanwhile. Combined with no urine or lethargy it means emergency care.
+
+### Instruction: Nicotine pouch chewed by toddler. Toxic?
+### Response: Nicotine poisoning with vomiting, pallor, rapid heartbeat needs urgent evaluation. Lock all nicotine products. Call poison guidance immediately with product details. This is emergency information for significant ingestions; call poison control now.
+
+### Instruction: Yellow scaly scalp in my newborn. Cradle cap?
+### Response: Yellowish scaly scalp patches in young infants fit cradle cap: harmless, painless, usually fading alone. Gentle washing with soft brushing suffices. Spreading raw oozing patches or failure to thrive need evaluation.
+
+### Instruction: Clubfoot casting (Ponseti) timeline?
+### Response: Weekly casts then bracing maintain corrections with excellent outcomes when started early. Brace compliance decides success overwhelmingly. Orthopedic schedules strictly. Patience through months works.
+
+### Instruction: Flies and food contamination with kids. Prevent?
+### Response: Covered foods, screened windows, handwashing, and prompt refrigeration break fly-borne diarrhea chains. Street-food caution with young children. Hygiene beats treatment.
+
+### Instruction: Lost vaccine card. Reconstruct how?
+### Response: Clinic registries, program databases, and blood titers in selected cases rebuild histories. Assume unprotected when uncertain and revaccinate safely per guidance. Digital backups prevent repeats.
+
+### Instruction: Tuberculosis skin test vs blood test. Better?
+### Response: Blood interferon tests suit BCG-vaccinated children avoiding false positives; skin tests remain where labs lack. Exposure history directs testing. Positive results need chest imaging.
+
+### Instruction: Zinc deficiency signs in kids?
+### Response: Poor growth, hair loss, skin lesions, weak immunity, and taste changes suggest testing in at-risk diets. Supplementation follows confirmed need. Dietary diversity prevents most.
+
+### Instruction: What is a good bedtime routine?
+### Response: Same order nightly: bath, teeth, story, song, lights out, with screens off well before. Consistency beats elaborateness. Weekend drift under an hour preserves it.
+
+### Instruction: My child can't sit still at meals. Normal energy?
+### Response: Typical 7-year-old energy with normal school function needs outlets, not labels. Impairment across settings with red-flag behaviors needs evaluation. More movement daily fixes most cases.
+
+### Instruction: Echogenic bowel on ultrasound. Meaning?
+### Response: Soft marker needing infection and cystic fibrosis screening context with growth follow-up. Most resolve benignly. Isolated findings reassure mostly. Maternal-fetal medicine interprets.
+
+### Instruction: When is a child's wheezing an emergency?
+### Response: Blue lips, inability to speak full sentences, ribs showing with breaths, reliever not working, or extreme drowsiness. These need emergency care immediately, not a routine visit. seek urgent care for these signs.
+
+### Instruction: Paternal postpartum depression. Real?
+### Response: Fathers suffer measurably with irritability, withdrawal, and risk behaviors needing equal screening and care. Family systems feel paternal mood deeply. Help works similarly. Screen partners too.
+
+### Instruction: Substance experimentation signs in teens. Watch?
+### Response: Smell, paraphernalia, behavior shifts, declining function, and peer changes suggest use needing calm testing conversation. accusations without evidence backfire. Professional assessment guides. Love with boundaries works.
+
+### Instruction: Second concussion same season. Sit out?
+### Response: Extended seasons off with specialist clearance protect developing brains from cumulative harm. No game outweighs brain health. Medical guidance sets timelines.
+
+### Instruction: Port-wine stain on my baby's face. Laser?
+### Response: Facial port-wine stains get dermatology review for laser timing plus eye and brain screening when eyelid or forehead involved. Early laser works best. Most need planned series.
+
+### Instruction: My teen is moody and withdrawn. Depression?
+### Response: Persistent sadness, anhedonia, sleep/appetite changes, and function loss beyond typical teen moodiness need professional screening. Suicide statements always need immediate response. Early help works best. take warning signs seriously and seek professional help.
+
+### Instruction: Late effects after childhood cancer. Monitor?
+### Response: Heart, hormone, fertility, learning, and second-cancer surveillance per survivorship protocols lifelong. Summary care plans travel with survivors. Never skip long-term follow-up. Specialists coordinate.
+
+### Instruction: Steroid creams for my child's eczema: safe?
+### Response: Mild steroids in short courses per pediatric guidance are safe and standard; prolonged unsupervised use thins skin. Thin areas like face and folds need extra caution and medical direction.
+
+### Instruction: Jellyfish across face with eye pain. Emergency?
+### Response: Facial stings with eye involvement need emergency eye evaluation plus sting protocol per species. Rinsing and tentacle removal precede transport. Breathing difficulty escalates everything. Learn local species rules. This is emergency information; seek emergency care.
+
+### Instruction: What is juice vs whole fruit for toddlers?
+### Response: Whole fruit brings fiber and chewing with natural portions; juice brings sugar water displacing nutrition. No juice under 1 year with small caps after. Water covers thirst.
+
+### Instruction: When do tonsils need removal?
+### Response: Recurrent documented infections meeting criteria, sleep apnea from enlargement, or abscess history drive ENT decisions. Snoring alone rarely suffices. Sleep study often precedes surgery.
+
+### Instruction: Wrist pain after fall on hand. Scaphoid worry?
+### Response: Snuffbox tenderness after falls raises scaphoid concern needing imaging and often repeat imaging since early films miss it. Thumb-spica protection applies meanwhile. Hand specialist reviews.
+
+### Instruction: 18-month well visit: what happens?
+### Response: Word count, walking quality, autism screening standard, booster completion, and sleep-behavior review. Early flags get referrals fast. Bring word lists.
+
+### Instruction: Vitamin A with measles illness. Why given?
+### Response: Program doses reduce measles eye and immune complications per WHO protocol during illness. Clinic-administered per schedule. Never home-dose. Records track it.
+
+### Instruction: My diabetic child's sugar is very low and drowsy. What now?
+### Response: Fast sugar per diabetes plan if swallow-safe; never force food into drowsy children. Unconsciousness or seizures need emergency care with glucagon per plan if prescribed. Diabetes teams rehearse these steps. call emergency for unconsciousness.
+
+### Instruction: Tick on my child. How to remove?
+### Response: Fine tweezers close to skin, steady pull, clean the area, save the tick in a bag. Expanding bullseye rash, fever with rash, or unremovable scalp ticks need evaluation.
+
+### Instruction: Group B strep positive. Labor plan?
+### Response: Intrapartum antibiotics per protocol protect newborns with timing from rupture tracked. Home-birth plans adapt accordingly. Neonatal observation follows. Protocols save lives.
+
+### Instruction: antibiotic for cold yes no
+### Response: No: colds are viral and antibiotics cannot help, sometimes harming gut flora. Bacterial complications diagnosed by clinicians are the only reason. Finish prescribed courses fully when given.
+
+### Instruction: Whooping sound with coughing fits in my unvaccinated toddler. Pertussis?
+### Response: Whooping fits with vomiting after cough in under-vaccinated children fit pertussis needing urgent evaluation and antibiotics per protocol, with household prevention. Vaccination prevents most cases. Isolate and seek care promptly.
+
+### Instruction: What is SIDS and how is risk lowered?
+### Response: Sudden unexplained infant death during sleep, lowered by back-sleeping, bare firm mattress, room-sharing without bed-sharing, smoke-free air, and breastfeeding. Every rule targets a proven mechanism.
+
+### Instruction: Palliative care vs hospice for kids. Difference?
+### Response: Palliative supports quality alongside curative treatment from diagnosis; hospice focuses comfort when cure recedes. Both embrace whole families. Early palliative improves every outcome measured. Ask early.
+
+### Instruction: Catch-up schedule for unvaccinated 3-year-old?
+### Response: Accelerated age-appropriate series per national catch-up tables without restarting completed valid doses. Records reconstruction comes first. Pediatric guidance sequences efficiently.
+
+### Instruction: My 3-year-old's eczema covers most of the body. Next level care?
+### Response: Extensive childhood eczema needs dermatology step-up with prescription anti-inflammatories, bleach-bath protocols, wet wraps, and trigger workup. Infection surveillance intensifies with extent. Specialist care transforms severe cases.
+
+### Instruction: My child seized twice in one day with fever. Serious?
+### Response: Multiple seizures in 24 hours is a complex pattern needing urgent neurological evaluation, unlike single brief events. Go for urgent care with your recorded details. seek urgent care.
+
+### Instruction: chickenpox vaccine breakthrough mild?
+### Response: Breakthrough cases run milder with fewer blisters. Isolation until crusted still applies. Outbreaks still spread to susceptible contacts.
+
+### Instruction: strep test negative still strep?
+### Response: Rapid tests miss some cases; high-suspicion negatives get cultured over days. Clinical scores guide strategy. Persistent classic symptoms get retested.
 
 ### Instruction: Mouth sores plus hand rash in my 3-year-old. Hand foot mouth?
 ### Response: Mouth sores with hand and foot rash fits hand foot and mouth disease. Cold fluids and soft foods carry them through; the danger is dehydration from refusing drinks. Watch intake closely.
 
-### Instruction: When can my child return to school with pink eye?
-### Response: Viral cases with mild symptoms often attend with hygiene; bacterial cases typically wait 24 hours into treatment per school policy. Follow local rules and clinician advice.
+### Instruction: Choking hazards to avoid for toddlers?
+### Response: Whole grapes, nuts, popcorn, hard candy, hot dog rounds, raw carrot chunks. Cut round foods lengthwise, supervise all eating, seat children upright. Learn infant choking response in advance.
 
-### Instruction: Nose spray battles daily. Technique?
-### Response: Head tilt slightly forward, opposite-hand aiming outward, gentle sniffing not snorting, with sticker charts rewarding cooperation. Technique beats force. Reviews adjust medicines.
+### Instruction: 4-year well visit: what happens?
+### Response: Storytelling, hopping, drawing people, school-entry vaccines and exams, vision-hearing screens. School readiness assessed gently. Records ready enrollment.
 
-### Instruction: Apnea with bronchiolitis in young infant. Admit?
-### Response: Apneic episodes mandate monitoring admission, especially under 2 months or premature. Home observation never suffices post-apnea. Emergency evaluation decides level of care. apneic infants need urgent care.
+### Instruction: Allergy testing methods for children?
+### Response: Skin prick and specific blood tests identify triggers under allergist direction; broad food panels without history mislead. Testing follows suspected triggers, not fishing expeditions.
 
-### Instruction: My child limps every morning then fine. Growing or joint?
-### Response: Morning stiffness easing with movement suggests joint inflammation needing evaluation, unlike growing pains that strike evenings and vanish mornings. Limp with swelling, fever, or persistence needs prompt review.
+### Instruction: Daycare and antibiotics: return after first dose?
+### Response: Many policies allow return 24 hours into antibiotics with fever resolved, except diseases needing longer exclusion. Finish full courses regardless. Follow center rules.
 
-### Instruction: Trampoline safety for kids?
-### Response: Highest fracture and spine-injury rates in home play; one jumper at a time, no flips, netted supervised use at most. Many pediatricians advise against home trampolines entirely.
+### Instruction: Cough syrup for my 4-year-old?
+### Response: Most cough syrups lack pediatric approval and can harm young children; honey over age 1, fluids, and humid air are safer. Persistent cough needs evaluation, not stronger syrups. Ask a pharmacist about any product's age limits.
 
-### Instruction: Math struggles vs reading struggles. Different?
-### Response: Different brain systems with different interventions; combined struggles need broader learning evaluation. Targeted tutoring follows formal identification. School psychology guides assessment.
+### Instruction: Nephrotic swelling around eyes mornings. Nephrotic syndrome?
+### Response: Morning eye puffiness with swelling progression and foamy urine fits nephrotic patterns needing prompt protein testing and specialist care. Steroid protocols treat most childhood cases. Urgent evaluation applies.
 
-### Instruction: Playdough eaten. Salt risk?
-### Response: Homemade high-salt dough risks salt poisoning in large amounts needing evaluation; small tastes are harmless. Commercial formulas differ mildly. Call poison guidance for large ingestions. Supervise play.
+### Instruction: Fever with stiff neck in my 6-year-old. Meaning?
+### Response: Fever with neck stiffness, severe headache, light sensitivity, or lethargy can signal meningitis needing emergency care immediately. Do not wait for rash. Go now. seek emergency care.
 
-### Instruction: Chickenpox itch relief that actually works?
-### Response: Cool baths, calamine lotion, loose cotton clothing, and trimmed nails prevent scratching damage. Never use aspirin in children. Ask a pharmacist about age-appropriate itch options.
+### Instruction: Juice limits for children?
+### Response: No juice under 1 year; small daily caps after, with whole fruit preferred for fiber. Juice displaces nutrition and rots teeth. Water and milk cover needs.
 
-### Instruction: My child scratches until bleeding nightly. Help?
-### Response: Wet wraps, sedating-free itch control per guidance, trigger review, nails short with cotton gloves, and sleep routine repair break cycles. Bleeding infected areas need evaluation. Dermatology escalates care.
+### Instruction: Hydronephrosis on prenatal ultrasound. After birth?
+### Response: Postnatal ultrasound timing per protocol confirms or clears prenatal swelling findings. Most resolve; persistent cases get reflux and obstruction workup. Scheduled follow-up matters most.
+
+### Instruction: Swollen breasts in my newborn. Concerning?
+### Response: Maternal-hormone breast swelling in newborns of both sexes is benign and resolves alone. Redness, warmth, fever, or discharge suggest infection needing evaluation. Never squeeze.
+
+### Instruction: Can vaccines be delayed if my child has a cold?
+### Response: Mild colds without fever rarely require delay; moderate or severe illness postpones until recovery. The vaccinating clinic decides case by case.
+
+### Instruction: What is mebendazole vs albendazole?
+### Response: Both are deworming medicines per pharmacist or prescription guidance with similar belly-pain and nausea effects. Hygiene prevents reinfection in both cases. Confirm plans with a pharmacist.
+
+### Instruction: Multivitamins instead of meals for picky eaters?
+### Response: Supplements complement, never replace, varied food exposure. Excess fat-soluble vitamins harm. Feeding therapy beats bottle reliance for severe pickiness. Confirm products with the pediatrician.
+
+### Instruction: What dose of ibuprofen for a 20kg child?
+### Response: I do not provide drug doses: pediatric dosing is weight-based and must be confirmed with a pharmacist using the package and the child's current weight. What I can explain: ibuprofen suits children over 6 months per guidance, not infants, with stomach upset as a known effect.
+
+### Instruction: Cord blood banking. Worth it?
+### Response: Public donation helps many; private banking rarely justifies cost outside known family indications. Delayed clamping conflicts slightly. Evidence-based counseling decides.
+
+### Instruction: Serve-and-return interaction. Practice?
+### Response: Notice cues, respond warmly, extend turns through daily routines deliberately. Brains wire through back-and-forth. Reading, singing, and play deliver it. Practice constantly.
+
+### Instruction: What is dehydration in simple words?
+### Response: See dehydration entry: fluid loss shown by thirst, dry mouth, few diapers, sunken eyes, sleepiness; ORS early, emergency for severe signs.

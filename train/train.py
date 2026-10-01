@@ -58,6 +58,10 @@ def main():
     ap.add_argument('--out', default='model/ckpt.pt')
     ap.add_argument('--resume', default=None)
     ap.add_argument('--max-norm', type=float, default=1.0)
+    ap.add_argument('--embd', type=int, default=n_embd)
+    ap.add_argument('--heads', type=int, default=n_head)
+    ap.add_argument('--layers', type=int, default=n_layer)
+    ap.add_argument('--dropout', type=float, default=0.2)
     ap.add_argument('--best-out', default='model/ckpt_best.pt',
                     help='where the best-by-val-loss checkpoint goes')
     ap.add_argument('--patience', type=int, default=5,
@@ -71,7 +75,11 @@ def main():
     print(f'device={DEVICE} vocab={vocab_size} '
           f'train_tokens={len(train_data)} val_tokens={len(val_data)}', flush=True)
 
-    model = GPTLanguageModel(vocab_size=vocab_size).to(DEVICE)
+    model = GPTLanguageModel(vocab_size=vocab_size, n_embd=args.embd,
+                             n_head=args.heads, n_layer=args.layers,
+                             block_size=block_size, dropout=args.dropout).to(DEVICE)
+    print(f'model params: {model.num_params() / 1e6:.2f}M '
+          f'(L{args.layers} H{args.heads} D{args.embd})', flush=True)
     opt = torch.optim.AdamW(model.parameters(), lr=args.lr)
     start_step = 0
     if args.resume and os.path.exists(args.resume):
